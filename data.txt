@@ -1,0 +1,1 @@
+{"sendal swallow": 5000, "sepatu vans": 150000, "sepatu bata": 100000, "batik amerika": 100000}

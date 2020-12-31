@@ -1,0 +1,13 @@
+
+Transaksi 2020-12-04 16:09:53.733666
+pembelian kopi sebanyak 3 dengan harga Rp.30000
+pembelian susu sebanyak 2 dengan harga Rp.30000
+pembelian telur sebanyak 3 dengan harga Rp.3000
+pembelian tempe sebanyak 12 dengan harga Rp.60000
+Transaksi 2020-12-04 17:39:15.336902
+pembelian sendal swallow sebanyak 2 dengan harga Rp.10000
+pembelian sepatu vans sebanyak 2 dengan harga Rp.400000
+Transaksi 2020-12-04 17:54:52.464030
+pembelian sendal swallow sebanyak 2 dengan harga Rp.10000
+Transaksi 2020-12-04 18:08:19.195605
+pembelian sendal swallow sebanyak 10 dengan harga Rp.50000
